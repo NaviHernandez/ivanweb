@@ -1,0 +1,15 @@
+com\webservice\uts\models\dao\IClienteDao.class
+com\webservice\uts\models\dao\IProductoDao.class
+com\webservice\uts\models\services\ClienteServicelmpl.class
+com\webservice\uts\models\entites\ItemFactura.class
+com\webservice\uts\controllers\ClienteRestController.class
+com\webservice\uts\DemoApplication.class
+com\webservice\uts\models\entites\Usuario.class
+com\webservice\uts\controllers\FacturaRestController.class
+com\webservice\uts\models\entites\Factura.class
+com\webservice\uts\models\entites\Producto.class
+com\webservice\uts\models\entites\Cliente.class
+com\webservice\uts\models\services\IClienteService.class
+com\webservice\uts\models\entites\Region.class
+com\webservice\uts\models\entites\Role.class
+com\webservice\uts\models\dao\IFacturaDao.class
